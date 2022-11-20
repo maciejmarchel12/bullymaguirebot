@@ -1,6 +1,8 @@
 # bullymaguirebot
 Bully Maguire bot for discord
 
+![image](https://user-images.githubusercontent.com/31955728/202913386-2f9b383e-bf42-40ba-895d-68b87b8f50cb.jpg)
+
 # Features
 
 Prefix for the bot is >
