@@ -9,6 +9,8 @@ const client = new Client({ intents: [
  ]
 });
 
+const config = require('./config.json')
+
 
 
 client.on("ready", () => {
@@ -95,4 +97,4 @@ client.on("messageCreate", (message) => {
 
 })
 
-client.login('MTA0MzUyMzg0MjU2MTI5ODUwMg.GtIVhX.CSNwWNKrhsbZpehtSqwd69ZoQVOln74-8FUdt0');
+client.login(config.token);
