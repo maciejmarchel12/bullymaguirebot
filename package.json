@@ -2,7 +2,8 @@
   "dependencies": {
     "discord.js": "^14.9.0",
     "dotenv": "^16.0.3",
-    "node.js": "^0.0.1-security"
+    "node.js": "^0.0.1-security",
+    "react-scripts": "^5.0.1"
   },
   "name": "bullymaguirebot2",
   "version": "1.0.0",
